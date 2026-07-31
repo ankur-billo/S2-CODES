@@ -9,17 +9,6 @@ This repository reflects my journey through coding, structured learning, and han
 
 ---
 
-## 📁 Structure
-
-S2-CODES/
-│
-├── 🧪 Lab-Work/
-├── 📝 Assignments/
-├── 🏫 Class-Experiments/
-└── 💡 Personal-Experiments/
-
----
-
 ## ⚙️ What You'll Find
 
 ### 🧪 Lab Work

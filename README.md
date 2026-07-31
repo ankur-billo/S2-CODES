@@ -54,7 +54,12 @@ S2-CODES/
 
 ### 🔧 Data & Markup
 - 🧾 XML  
-- 🔗 JSON  
+- 🔗 JSON
+
+ ### 🧰 Tools
+- 💻 VS Code
+- 🐙 Git
+- 🌐 GitHub
 
 ---
 
